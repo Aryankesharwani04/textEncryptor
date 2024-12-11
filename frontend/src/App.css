@@ -1,0 +1,26 @@
+.App-header {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.form-group {
+  margin: 10px 0;
+}
+
+.form-group input, .form-group select {
+  padding: 5px;
+  font-size: 1rem;
+  width: 300px;
+}
+
+.form-group button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.result {
+  margin: 20px 0;
+}
